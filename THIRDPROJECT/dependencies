@@ -1,0 +1,6 @@
+dependencies
+express mongoose connect-mongo express-session express-handlebars dotenv
+method-override moment morgan passport passport-google-oauth20
+
+dev dependencies:
+nodemon cross-env 
